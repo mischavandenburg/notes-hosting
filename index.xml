@@ -6,6 +6,12 @@
       <description>Last 10 notes on Mischa&#039;s Zettelkasten</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Adding metrics server to Azure Local AKS</title>
+    <link>https://notes.mischavandenburg.com/Adding-metrics-server-to-Azure-Local-AKS</link>
+    <guid>https://notes.mischavandenburg.com/Adding-metrics-server-to-Azure-Local-AKS</guid>
+    <description>Adding metrics server to Azure Local in AKS When running AKS on Azure Local, the metrics server is not included, k top node or the metrics in k9s do not work ...</description>
+    <pubDate>Sun, 02 Mar 2025 14:37:46 GMT</pubDate>
+  </item><item>
     <title>Projects in JD System 1</title>
     <link>https://notes.mischavandenburg.com/Projects-in-JD-System-1</link>
     <guid>https://notes.mischavandenburg.com/Projects-in-JD-System-1</guid>
