@@ -6,6 +6,36 @@
       <description>Last 10 notes on Mischa&#039;s Zettelkasten</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>I built my own publishing solution instead of Obsidian Publish</title>
+    <link>https://notes.mischavandenburg.com/I-built-my-own-publishing-solution-instead-of-Obsidian-Publish</link>
+    <guid>https://notes.mischavandenburg.com/I-built-my-own-publishing-solution-instead-of-Obsidian-Publish</guid>
+    <description>I built my own publishing solution instead of Obsidian Publish Instead of relying on Obsidian publish, I wrote some Python code to parse my Zettelkasten for the “published: true” ...</description>
+    <pubDate>Sun, 02 Mar 2025 15:12:13 GMT</pubDate>
+  </item><item>
+    <title>Johnny Decimal</title>
+    <link>https://notes.mischavandenburg.com/Johnny-Decimal</link>
+    <guid>https://notes.mischavandenburg.com/Johnny-Decimal</guid>
+    <description>Johnny Decimal Zettelkasten The whole JD Workshop is just one ID 93.02 - JD Scope 34 Aims for Areas and Categories First attempt at an index Storing Repos in Johnny Decimal system An ...</description>
+    <pubDate>Sun, 02 Mar 2025 15:12:13 GMT</pubDate>
+  </item><item>
+    <title>Johnny uses a lot of subfolders and sub-ids too</title>
+    <link>https://notes.mischavandenburg.com/Johnny-uses-a-lot-of-subfolders-and-sub-ids-too</link>
+    <guid>https://notes.mischavandenburg.com/Johnny-uses-a-lot-of-subfolders-and-sub-ids-too</guid>
+    <description>Johnny uses a lot of subfolders and sub-ids too I like the concept of creating ID’s like 31.12.001 for things. One use case is repos Storing Repos in Johnny Decimal system for example.</description>
+    <pubDate>Sun, 02 Mar 2025 15:12:13 GMT</pubDate>
+  </item><item>
+    <title>Knowing Containers, Databases &amp; Code is Magic</title>
+    <link>https://notes.mischavandenburg.com/Knowing-Containers,-Databases--and--Code-is-Magic</link>
+    <guid>https://notes.mischavandenburg.com/Knowing-Containers,-Databases--and--Code-is-Magic</guid>
+    <description>Knowing Containers, Databases &amp; Code is Magic Forget making money. If you learn to write Python code, work with containers, and how to store data in databases, there are so many interesting things you can build to enhance your life.</description>
+    <pubDate>Sun, 02 Mar 2025 15:12:13 GMT</pubDate>
+  </item><item>
+    <title>Storing Repos in Johnny Decimal system</title>
+    <link>https://notes.mischavandenburg.com/Storing-Repos-in-Johnny-Decimal-system</link>
+    <guid>https://notes.mischavandenburg.com/Storing-Repos-in-Johnny-Decimal-system</guid>
+    <description>Storing Repos in Johnny Decimal system The repo should be assigned an ID from the index. It does not need to be added to the directory name of the repo.</description>
+    <pubDate>Sun, 02 Mar 2025 15:12:13 GMT</pubDate>
+  </item><item>
     <title>Projects in JD System 1</title>
     <link>https://notes.mischavandenburg.com/Projects-in-JD-System-1</link>
     <guid>https://notes.mischavandenburg.com/Projects-in-JD-System-1</guid>
@@ -35,12 +65,6 @@
     <guid>https://notes.mischavandenburg.com/</guid>
     <description>Welcome. I’ve been keeping a Zettelkasten for about 3 years now, and I’ve accumulated nearly 2500 notes. And I enjoy reading other people’s Zettelkasten too, such as rwxrob’s.</description>
     <pubDate>Sun, 02 Mar 2025 08:50:53 GMT</pubDate>
-  </item><item>
-    <title>42.11 Buddhist Practice</title>
-    <link>https://notes.mischavandenburg.com/42.11-Buddhist-Practice</link>
-    <guid>https://notes.mischavandenburg.com/42.11-Buddhist-Practice</guid>
-    <description>Buddhist Practice Sati Sati is not samadhi or concentration The sound of silence indicates that you are fully open Living situation as long as i have dhamma, i am ok Contentment about ...</description>
-    <pubDate>Sun, 02 Mar 2025 08:49:51 GMT</pubDate>
   </item>
     </channel>
   </rss>
