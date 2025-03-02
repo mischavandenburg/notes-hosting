@@ -6,6 +6,12 @@
       <description>Last 10 notes on Mischa&#039;s Zettelkasten</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>The importance of cleanliness</title>
+    <link>https://notes.mischavandenburg.com/The-importance-of-cleanliness</link>
+    <guid>https://notes.mischavandenburg.com/The-importance-of-cleanliness</guid>
+    <description>I have some good routines around keeping my apartment clean and clutter free. I try to mop my floors every week, clean my office every Monday, and I always do my dishes right after I’m done with my food preparations.</description>
+    <pubDate>Sun, 02 Mar 2025 18:03:32 GMT</pubDate>
+  </item><item>
     <title>42.11 Buddhist Practice</title>
     <link>https://notes.mischavandenburg.com/42.11-Buddhist-Practice</link>
     <guid>https://notes.mischavandenburg.com/42.11-Buddhist-Practice</guid>
@@ -59,12 +65,6 @@
     <guid>https://notes.mischavandenburg.com/Projects-in-JD-System-1</guid>
     <description>Projects in Johnny Decimal System I need a way of assigning ID’s to projects. This can be projects for clients, homelab projects, non-tech related projects.</description>
     <pubDate>Sun, 02 Mar 2025 15:00:19 GMT</pubDate>
-  </item><item>
-    <title>Adding metrics server to Azure Local AKS</title>
-    <link>https://notes.mischavandenburg.com/Adding-metrics-server-to-Azure-Local-AKS</link>
-    <guid>https://notes.mischavandenburg.com/Adding-metrics-server-to-Azure-Local-AKS</guid>
-    <description>Adding metrics server to Azure Local in AKS When running AKS on Azure Local, the metrics server is not included, k top node or the metrics in k9s do not work ...</description>
-    <pubDate>Sun, 02 Mar 2025 14:51:12 GMT</pubDate>
   </item>
     </channel>
   </rss>
