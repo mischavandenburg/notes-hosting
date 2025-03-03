@@ -6,6 +6,12 @@
       <description>Last 10 notes on Mischa&#039;s Zettelkasten</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Offsite Backup Providers</title>
+    <link>https://notes.mischavandenburg.com/Offsite-Backup-Providers</link>
+    <guid>https://notes.mischavandenburg.com/Offsite-Backup-Providers</guid>
+    <description>Offsite Backup Providers After some research I have made my choice for the provider I’ll use for my off-site backups. iDrive e2 Reasons why I went for iDrive e2: Compatible with Restic and Synology Cheap 2FA S3 object storage 5 TB $247.50/year $123.75 first year 10 TB $495.00/year $247.50 first year 20 TB $990.00/year $495.00 first year www.idrive.com/s3-storage-e2/ Hetzner Storage Box Looks good, but the data is attached to one server only as far as I can gather.</description>
+    <pubDate>Mon, 03 Mar 2025 16:30:58 GMT</pubDate>
+  </item><item>
     <title>The importance of cleanliness</title>
     <link>https://notes.mischavandenburg.com/The-importance-of-cleanliness</link>
     <guid>https://notes.mischavandenburg.com/The-importance-of-cleanliness</guid>
@@ -59,12 +65,6 @@
     <guid>https://notes.mischavandenburg.com/Storing-Repos-in-Johnny-Decimal-system</guid>
     <description>Storing Repos in Johnny Decimal system The repo should be assigned an ID from the index. It does not need to be added to the directory name of the repo.</description>
     <pubDate>Sun, 02 Mar 2025 15:12:13 GMT</pubDate>
-  </item><item>
-    <title>Projects in JD System 1</title>
-    <link>https://notes.mischavandenburg.com/Projects-in-JD-System-1</link>
-    <guid>https://notes.mischavandenburg.com/Projects-in-JD-System-1</guid>
-    <description>Projects in Johnny Decimal System I need a way of assigning ID’s to projects. This can be projects for clients, homelab projects, non-tech related projects.</description>
-    <pubDate>Sun, 02 Mar 2025 15:00:19 GMT</pubDate>
   </item>
     </channel>
   </rss>
