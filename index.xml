@@ -6,6 +6,12 @@
       <description>Last 10 notes on Mischa&#039;s Zettelkasten</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Restic is quickly becoming one of my favorite tools</title>
+    <link>https://notes.mischavandenburg.com/Restic-is-quickly-becoming-one-of-my-favorite-tools</link>
+    <guid>https://notes.mischavandenburg.com/Restic-is-quickly-becoming-one-of-my-favorite-tools</guid>
+    <description>Restic is quickly becoming one of my favorite tools It took a bit of reading and tinkering for restic to click for me, but now that I understand their concept of repositories and how I ...</description>
+    <pubDate>Mon, 03 Mar 2025 16:41:10 GMT</pubDate>
+  </item><item>
     <title>Offsite Backup Providers</title>
     <link>https://notes.mischavandenburg.com/Offsite-Backup-Providers</link>
     <guid>https://notes.mischavandenburg.com/Offsite-Backup-Providers</guid>
@@ -58,12 +64,6 @@
     <link>https://notes.mischavandenburg.com/Knowing-Containers,-Databases--and--Code-is-Magic</link>
     <guid>https://notes.mischavandenburg.com/Knowing-Containers,-Databases--and--Code-is-Magic</guid>
     <description>Knowing Containers, Databases &amp; Code is Magic Forget making money. If you learn to write Python code, work with containers, and how to store data in databases, there are so many interesting things you can build to enhance your life.</description>
-    <pubDate>Sun, 02 Mar 2025 15:12:13 GMT</pubDate>
-  </item><item>
-    <title>Storing Repos in Johnny Decimal system</title>
-    <link>https://notes.mischavandenburg.com/Storing-Repos-in-Johnny-Decimal-system</link>
-    <guid>https://notes.mischavandenburg.com/Storing-Repos-in-Johnny-Decimal-system</guid>
-    <description>Storing Repos in Johnny Decimal system The repo should be assigned an ID from the index. It does not need to be added to the directory name of the repo.</description>
     <pubDate>Sun, 02 Mar 2025 15:12:13 GMT</pubDate>
   </item>
     </channel>
