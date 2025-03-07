@@ -6,6 +6,12 @@
       <description>Last 10 notes on Mischa&#039;s Zettelkasten</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Having only 2TB of storage forces you to think about backups</title>
+    <link>https://notes.mischavandenburg.com/Having-only-2TB-of-storage-forces-you-to-think-about-backups</link>
+    <guid>https://notes.mischavandenburg.com/Having-only-2TB-of-storage-forces-you-to-think-about-backups</guid>
+    <description>Having only 2TB of storage forces you to think about backups and organize. My Arch Linux workstation and MacBook only have 2TB drives, which would be plenty for normal usage.</description>
+    <pubDate>Fri, 07 Mar 2025 07:26:21 GMT</pubDate>
+  </item><item>
     <title>Handling search for index notes after JD implementation</title>
     <link>https://notes.mischavandenburg.com/Handling-search-for-index-notes-after-JD-implementation</link>
     <guid>https://notes.mischavandenburg.com/Handling-search-for-index-notes-after-JD-implementation</guid>
@@ -58,12 +64,6 @@
     <link>https://notes.mischavandenburg.com/Johnny-Decimal</link>
     <guid>https://notes.mischavandenburg.com/Johnny-Decimal</guid>
     <description>Johnny Decimal Zettelkasten The whole JD Workshop is just one ID 93.02 - JD Scope 34 Aims for Areas and Categories First attempt at an index Storing Repos in Johnny Decimal system An ...</description>
-    <pubDate>Sun, 02 Mar 2025 15:12:13 GMT</pubDate>
-  </item><item>
-    <title>Johnny uses a lot of subfolders and sub-ids too</title>
-    <link>https://notes.mischavandenburg.com/Johnny-uses-a-lot-of-subfolders-and-sub-ids-too</link>
-    <guid>https://notes.mischavandenburg.com/Johnny-uses-a-lot-of-subfolders-and-sub-ids-too</guid>
-    <description>Johnny uses a lot of subfolders and sub-ids too I like the concept of creating ID’s like 31.12.001 for things. One use case is repos Storing Repos in Johnny Decimal system for example.</description>
     <pubDate>Sun, 02 Mar 2025 15:12:13 GMT</pubDate>
   </item>
     </channel>
